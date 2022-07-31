@@ -1,7 +1,6 @@
-# id 只能填 字母 数字 半角符号
-id=FontTemplateA
-name=TTF 字体套用模板（多字重）
-version=Advanced v3.3.220605
+id=com.aimerneige.glow.sans.magisk
+name=GlowSans-Magisk-Advance
+version=Advanced v1.0.220731
 versionCode=1
-author=lxgw (github.com/lxgw)
-description=用于制作 Magisk 字体模块，支持 9 个字重，可对西文、中文、日语、韩语字体进行任意搭配。微信公众号：霞鹜（lxgwshare）；微博：孤鹜先森；酷安/少数派：落霞孤鹜lxgw。 GitHub 项目地址：https://github.com/lxgw/advanced-cjk-font-magisk-module-template ，使用说明请见 README.md 文件。
+author=AimerNeige (github.com/aimerneige)
+description=使用「CJK 字体 Magisk 模块模板 高级版」制作的「未来荧黑」字体模块。
