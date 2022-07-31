@@ -1636,48 +1636,48 @@
     </family>    
     <!-- lxgw 注：调用其余字体 -->
     <family lang="zh-Hans">
-        <font weight="100" style="normal">GlowSansJ-Normal-Thin.otf</font>
-        <font weight="200" style="normal">GlowSansJ-Normal-ExtraLight.otf</font>
-        <font weight="300" style="normal">GlowSansJ-Normal-Light.otf</font>
-        <font weight="400" style="normal">GlowSansJ-Normal-Book.otf</font>
-        <font weight="500" style="normal">GlowSansJ-Normal-Regular.otf</font>
-        <font weight="600" style="normal">GlowSansJ-Normal-Medium.otf</font>
-        <font weight="700" style="normal">GlowSansJ-Normal-Bold.otf</font>
-        <font weight="800" style="normal">GlowSansJ-Normal-Heavy.otf</font>
-        <font weight="900" style="normal">GlowSansJ-Normal-ExtraBold.otf</font>
+        <font weight="100" style="normal">GlowSansTC-Normal-Thin.otf</font>
+        <font weight="200" style="normal">GlowSansTC-Normal-ExtraLight.otf</font>
+        <font weight="300" style="normal">GlowSansTC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansTC-Normal-Book.otf</font>
+        <font weight="500" style="normal">GlowSansTC-Normal-Regular.otf</font>
+        <font weight="600" style="normal">GlowSansTC-Normal-Medium.otf</font>
+        <font weight="700" style="normal">GlowSansTC-Normal-Bold.otf</font>
+        <font weight="800" style="normal">GlowSansTC-Normal-Heavy.otf</font>
+        <font weight="900" style="normal">GlowSansTC-Normal-ExtraBold.otf</font>
     </family>
     <family lang="zh-Hant">
-        <font weight="100" style="normal">GlowSansJ-Normal-Thin.otf</font>
-        <font weight="200" style="normal">GlowSansJ-Normal-ExtraLight.otf</font>
-        <font weight="300" style="normal">GlowSansJ-Normal-Light.otf</font>
-        <font weight="400" style="normal">GlowSansJ-Normal-Book.otf</font>
-        <font weight="500" style="normal">GlowSansJ-Normal-Regular.otf</font>
-        <font weight="600" style="normal">GlowSansJ-Normal-Medium.otf</font>
-        <font weight="700" style="normal">GlowSansJ-Normal-Bold.otf</font>
-        <font weight="800" style="normal">GlowSansJ-Normal-Heavy.otf</font>
-        <font weight="900" style="normal">GlowSansJ-Normal-ExtraBold.otf</font>
+        <font weight="100" style="normal">GlowSansSC-Normal-Thin.otf</font>
+        <font weight="200" style="normal">GlowSansSC-Normal-ExtraLight.otf</font>
+        <font weight="300" style="normal">GlowSansSC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansSC-Normal-Book.otf</font>
+        <font weight="500" style="normal">GlowSansSC-Normal-Regular.otf</font>
+        <font weight="600" style="normal">GlowSansSC-Normal-Medium.otf</font>
+        <font weight="700" style="normal">GlowSansSC-Normal-Bold.otf</font>
+        <font weight="800" style="normal">GlowSansSC-Normal-Heavy.otf</font>
+        <font weight="900" style="normal">GlowSansSC-Normal-ExtraBold.otf</font>
     </family>
     <family lang="ja">
-        <font weight="100" style="normal">GlowSansJ-Normal-Thin.otf</font>
-        <font weight="200" style="normal">GlowSansJ-Normal-ExtraLight.otf</font>
-        <font weight="300" style="normal">GlowSansJ-Normal-Light.otf</font>
-        <font weight="400" style="normal">GlowSansJ-Normal-Book.otf</font>
-        <font weight="500" style="normal">GlowSansJ-Normal-Regular.otf</font>
-        <font weight="600" style="normal">GlowSansJ-Normal-Medium.otf</font>
-        <font weight="700" style="normal">GlowSansJ-Normal-Bold.otf</font>
-        <font weight="800" style="normal">GlowSansJ-Normal-Heavy.otf</font>
-        <font weight="900" style="normal">GlowSansJ-Normal-ExtraBold.otf</font>
+        <font weight="100" style="normal">GlowSansSC-Normal-Thin.otf</font>
+        <font weight="200" style="normal">GlowSansSC-Normal-ExtraLight.otf</font>
+        <font weight="300" style="normal">GlowSansSC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansSC-Normal-Book.otf</font>
+        <font weight="500" style="normal">GlowSansSC-Normal-Regular.otf</font>
+        <font weight="600" style="normal">GlowSansSC-Normal-Medium.otf</font>
+        <font weight="700" style="normal">GlowSansSC-Normal-Bold.otf</font>
+        <font weight="800" style="normal">GlowSansSC-Normal-Heavy.otf</font>
+        <font weight="900" style="normal">GlowSansSC-Normal-ExtraBold.otf</font>
     </family>
     <family lang="ko">
-        <font weight="100" style="normal">GlowSansJ-Normal-Thin.otf</font>
-        <font weight="200" style="normal">GlowSansJ-Normal-ExtraLight.otf</font>
-        <font weight="300" style="normal">GlowSansJ-Normal-Light.otf</font>
-        <font weight="400" style="normal">GlowSansJ-Normal-Book.otf</font>
-        <font weight="500" style="normal">GlowSansJ-Normal-Regular.otf</font>
-        <font weight="600" style="normal">GlowSansJ-Normal-Medium.otf</font>
-        <font weight="700" style="normal">GlowSansJ-Normal-Bold.otf</font>
-        <font weight="800" style="normal">GlowSansJ-Normal-Heavy.otf</font>
-        <font weight="900" style="normal">GlowSansJ-Normal-ExtraBold.otf</font>
+        <font weight="100" style="normal">GlowSansSC-Normal-Thin.otf</font>
+        <font weight="200" style="normal">GlowSansSC-Normal-ExtraLight.otf</font>
+        <font weight="300" style="normal">GlowSansSC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansSC-Normal-Book.otf</font>
+        <font weight="500" style="normal">GlowSansSC-Normal-Regular.otf</font>
+        <font weight="600" style="normal">GlowSansSC-Normal-Medium.otf</font>
+        <font weight="700" style="normal">GlowSansSC-Normal-Bold.otf</font>
+        <font weight="800" style="normal">GlowSansSC-Normal-Heavy.otf</font>
+        <font weight="900" style="normal">GlowSansSC-Normal-ExtraBold.otf</font>
     </family>    
     <family lang="zh-Hans">
         <font weight="100" style="normal">GlowSansJ-Normal-Thin.otf</font>
@@ -1702,26 +1702,26 @@
         <font weight="900" style="normal">GlowSansJ-Normal-ExtraBold.otf</font>
     </family>
     <family lang="ja">
-        <font weight="100" style="normal">GlowSansSC-Normal-Thin.otf</font>
-        <font weight="200" style="normal">GlowSansSC-Normal-ExtraLight.otf</font>
-        <font weight="300" style="normal">GlowSansSC-Normal-Light.otf</font>
-        <font weight="400" style="normal">GlowSansSC-Normal-Book.otf</font>
-        <font weight="500" style="normal">GlowSansSC-Normal-Regular.otf</font>
-        <font weight="600" style="normal">GlowSansSC-Normal-Medium.otf</font>
-        <font weight="700" style="normal">GlowSansSC-Normal-Bold.otf</font>
-        <font weight="800" style="normal">GlowSansSC-Normal-Heavy.otf</font>
-        <font weight="900" style="normal">GlowSansSC-Normal-ExtraBold.otf</font>
+        <font weight="100" style="normal">GlowSansTC-Normal-Thin.otf</font>
+        <font weight="200" style="normal">GlowSansTC-Normal-ExtraLight.otf</font>
+        <font weight="300" style="normal">GlowSansTC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansTC-Normal-Book.otf</font>
+        <font weight="500" style="normal">GlowSansTC-Normal-Regular.otf</font>
+        <font weight="600" style="normal">GlowSansTC-Normal-Medium.otf</font>
+        <font weight="700" style="normal">GlowSansTC-Normal-Bold.otf</font>
+        <font weight="800" style="normal">GlowSansTC-Normal-Heavy.otf</font>
+        <font weight="900" style="normal">GlowSansTC-Normal-ExtraBold.otf</font>
     </family>
     <family lang="ko">
-        <font weight="100" style="normal">GlowSansSC-Normal-Thin.otf</font>
-        <font weight="200" style="normal">GlowSansSC-Normal-ExtraLight.otf</font>
-        <font weight="300" style="normal">GlowSansSC-Normal-Light.otf</font>
-        <font weight="400" style="normal">GlowSansSC-Normal-Book.otf</font>
-        <font weight="500" style="normal">GlowSansSC-Normal-Regular.otf</font>
-        <font weight="600" style="normal">GlowSansSC-Normal-Medium.otf</font>
-        <font weight="700" style="normal">GlowSansSC-Normal-Bold.otf</font>
-        <font weight="800" style="normal">GlowSansSC-Normal-Heavy.otf</font>
-        <font weight="900" style="normal">GlowSansSC-Normal-ExtraBold.otf</font>
+        <font weight="100" style="normal">GlowSansTC-Normal-Thin.otf</font>
+        <font weight="200" style="normal">GlowSansTC-Normal-ExtraLight.otf</font>
+        <font weight="300" style="normal">GlowSansTC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansTC-Normal-Book.otf</font>
+        <font weight="500" style="normal">GlowSansTC-Normal-Regular.otf</font>
+        <font weight="600" style="normal">GlowSansTC-Normal-Medium.otf</font>
+        <font weight="700" style="normal">GlowSansTC-Normal-Bold.otf</font>
+        <font weight="800" style="normal">GlowSansTC-Normal-Heavy.otf</font>
+        <font weight="900" style="normal">GlowSansTC-Normal-ExtraBold.otf</font>
     </family>    
     <!-- lxgw 注：自定义 CJK 字体 （终）-->
     <!-- lxgw 注：后垫 Android 自带思源黑体，确保 CJK 不缺字 -->
